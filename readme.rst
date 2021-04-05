@@ -1,3 +1,19 @@
+
+*******************
+Importante
+*******************
+
+1 - Esta "aplicação" pode ser executado no [xampp](https://www.apachefriends.org/pt_br/index.html);
+
+2 - Caso use o **xampp** baixe ou clone a aplicação **ci_school** dentro da pasta `xampp\htdocs`;
+
+2 - É nenessário a criação do banco de dados no **MySql** executando a query `CREATE database task_register default collate utf8_general_ci`;
+
+3 - Realize o *import* do banco de dados que esta na pasta da raiz da aplicação `ci_school\backup_db\backup.sql`;
+
+4 - Configure seus dados *username*, *password* e *database* no arquivo database.php que fica no seguinte caminho `ci_school\application\config\database.php`;
+
+
 ###################
 What is CodeIgniter
 ###################
