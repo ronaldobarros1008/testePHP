@@ -4,7 +4,7 @@ Importante
 *******************
 
 
-1 - Esta "aplicação" pode ser executado no [xampp]<https://www.apachefriends.org/pt_br/index.html>;
+1 - Esta "aplicação" pode ser executado no `xampp <https://www.apachefriends.org/pt_br/index.html>`  _ ;
 
 2 - Caso use o **xampp** baixe ou clone a aplicação **ci_school** dentro da pasta `xampp\htdocs`;
 
