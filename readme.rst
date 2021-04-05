@@ -10,7 +10,7 @@ Importante
 
 2 - É nenessário a criação do banco de dados no **MySql** executando a query *"CREATE database task_register default collate utf8_general_ci"*;
 
-3 - Realize o *import* do banco de dados que esta na pasta da raiz da aplicação *"ci_school\backup_db\backup.sql"*;
+3 - Realize o *import* do banco de dados que esta na pasta raiz da aplicação *"ci_school\backup_db\backup.sql"*;
 
 4 - Configure seus dados *username*, *password* e *database* no arquivo **database.php** que fica no seguinte caminho *"ci_school\application\config\database.php"*;
 
